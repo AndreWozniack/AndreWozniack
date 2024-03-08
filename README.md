@@ -16,6 +16,7 @@ I'm André Wozniack, Backend and iOS developer, computer engineering student and
 ---
 This profile contains everything from university work to different personal projects and major projects I've been part of. 
 
-If you have any questions or suggestions, just contact me.
+If you have any questions or suggestions, just contact me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-André%20Wozniack-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-wozniack/)
+

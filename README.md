@@ -22,5 +22,5 @@ If you have any questions or suggestions, just contact me:
 
 My site:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ee7de9df-73e4-4d62-b3d0-865db45108ab/deploy-status)](https://app.netlify.com/sites/andre-wozniack/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee7de9df-73e4-4d62-b3d0-865db45108ab/deploy-status)](https://wozniack.com/)
 

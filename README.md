@@ -9,7 +9,7 @@ I'm André Wozniack, Backend and iOS developer, computer engineering student and
 
 [![My Skills](https://skillicons.dev/icons?i=github,postman,notion,figma,idea,)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreWozniack&layout=compact&theme=dark&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreWozniack&layout=compact&theme=dark&hide=css,html,makefile)
 
 
 

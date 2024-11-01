@@ -5,7 +5,7 @@ I'm André Wozniack, Backend and iOS developer, computer engineering student and
 ---
 **Tecnology Stack**
 
-[![Lengages](https://skillicons.dev/icons?i=swift,rust,java,python,c,javascript,mysql)](https://skillicons.dev)
+[![Lengages](https://skillicons.dev/icons?i=swift,rust,java,python,c,javascript,docker,mysql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=github,postman,notion,figma,idea,)](https://skillicons.dev)
 

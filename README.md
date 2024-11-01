@@ -5,9 +5,9 @@ I'm André Wozniack, Backend and iOS developer, computer engineering student and
 ---
 **Tecnology Stack**
 
-[![Lengages](https://skillicons.dev/icons?i=swift,rust,java,python,c,javascript,docker,node,spring,actix,mysql)](https://skillicons.dev)
+[![Lengages](https://skillicons.dev/icons?i=swift,rust,java,python,c,javascript,docker,node.js,spring,actix,mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=xcode,github,postman,notion,figma,idea,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,postman,notion,figma,idea,)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreWozniack&layout=compact&theme=dark&hide=css,html,makefile)
 
